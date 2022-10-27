@@ -14,7 +14,7 @@ Electrical Engineering
 
 Our project is based on the idea of Machine Learning. Machine Leaning is a type of artificial intelligence that allows software applications to become more accurate at predicting outcomes without being explicitly programmed to do so. Machine learning algorithms use historical data as input to predict new output values. 
 
-So why Autonomous Car? -The idea is to make an autonomous car which can sense signals such as red and green, it can also sense obstacles such as cars, it can the route supplied to it (it can follow a straight road or turn having boundary). 
+So why Autonomous Car? -The idea is to make an autonomous car which can sense signals such as red and green, it can also sense obstacles such as cars based on the route supplied to it (it can follow a straight road or turn having boundary). 
 
 ### Purpose
 
